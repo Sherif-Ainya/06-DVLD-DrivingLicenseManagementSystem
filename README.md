@@ -12,6 +12,21 @@ A comprehensive enterprise desktop application designed to manage and automate d
 
 ---
 
+## 🛠️ Quick Setup & Run
+
+### 1. Restore the Database
+Extract `DatabaseFile.zip`, open **SQL Server Management Studio (SSMS)**, and execute the following query to restore the database directly:
+
+```sql
+RESTORE DATABASE DVLD 
+FROM DISK = 'C:\path\to\your\extracted\DVLD.bak'
+```
+
+### 2. Run the Project
+Extract `DVLD_MySolution.zip`, open the solution in **Visual Studio**, and press **F5** to start the application immediately.
+
+---
+
 ## 📸 Screenshots
 
 ### 1️⃣ Login Screen
@@ -25,21 +40,6 @@ A comprehensive enterprise desktop application designed to manage and automate d
 
 ### 4️⃣ Manage Local Licenses
 ![Manage Local Licenses](Screenshots/4_Manage-Local-Licenses.png)
-
----
-
-## 🛠️ Quick Setup & Run
-
-### 1. Restore the Database
-Extract `DatabaseFile.zip`, open **SQL Server Management Studio (SSMS)**, and execute the following query to restore the database directly:
-
-```sql
-RESTORE DATABASE DVLD 
-FROM DISK = 'C:\path\to\your\extracted\DVLD.bak'
-```
-
-### 2. Run the Project
-Extract `DVLD_MySolution.zip`, open the solution in **Visual Studio**, and press **F5** to start the application immediately.
 
 ...
 
