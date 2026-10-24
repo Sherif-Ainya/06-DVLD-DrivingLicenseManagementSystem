@@ -43,5 +43,6 @@ Extract `DVLD_MySolution.zip`, open the solution in **Visual Studio**, and press
 
 ...
 
-☻️
 @‎𝑆ℎ𝑒𝑟𝑖𝑓_𝐴𝑖𝑛𝑦𝑎
+
+...
