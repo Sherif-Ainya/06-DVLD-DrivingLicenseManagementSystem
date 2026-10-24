@@ -15,16 +15,16 @@ A comprehensive enterprise desktop application designed to manage and automate d
 ## 📸 Screenshots
 
 ### 1️⃣ Login Screen
-![Login Screen](Screenshots/1-Login-Screen.png)
+![Login Screen](Screenshots/1_Login-Screen.png)
 
 ### 2️⃣ Main Dashboard
-![Main Dashboard](Screenshots/2-Main-Dashboard.png)
+![Main Dashboard](Screenshots/2_Main-Dashboard.png)
 
 ### 3️⃣ Manage People
-![Manage People](Screenshots/3-Manage-People.png)
+![Manage People](Screenshots/3_Manage-People.png)
 
 ### 4️⃣ Manage Local Licenses
-![Manage Local Licenses](Screenshots/4-Manage-Local-Licenses.png)
+![Manage Local Licenses](Screenshots/4_Manage-Local-Licenses.png)
 
 ---
 
