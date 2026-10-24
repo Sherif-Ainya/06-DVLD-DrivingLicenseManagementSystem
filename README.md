@@ -1,4 +1,4 @@
-# Driving & Vehicles Licensing Department (DVLD) System 🚗💳
+# Driving & Vehicles Licensing Department (DVLD) System 🚗
 
 A comprehensive enterprise desktop application designed to manage and automate driving licenses and vehicle department operations. Built using **C#** and **Windows Forms**, with **SQL Server** backed by **Three-Tier Architecture**.
 
@@ -41,7 +41,7 @@ Extract `DVLD_MySolution.zip`, open the solution in **Visual Studio**, and press
 ### 4️⃣ Manage Local Licenses
 ![Manage Local Licenses](Screenshots/4_Manage-Local-Licenses.png)
 
-...
+---
 
 @‎𝑆ℎ𝑒𝑟𝑖𝑓_𝐴𝑖𝑛𝑦𝑎
 
